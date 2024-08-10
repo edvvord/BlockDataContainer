@@ -1,0 +1,4 @@
+name: BlockDataStorage
+version: '${project.version}'
+main: ed.functions.BlockDataStorage
+api-version: '1.21'
